@@ -1,0 +1,29 @@
+*{
+    background-image: url(./download.jfif);
+}
+h1{
+    color: red;
+    
+}
+li{
+    color:firebrick
+    
+}
+p{
+    color: firebrick;
+
+}
+h2{
+    color: indianred;
+}
+
+#line{
+    text-decoration: line-through;
+}
+.bg{
+    background-color: goldenrod;
+}
+a{
+    background-color: goldenrod;
+    color: red;
+}
